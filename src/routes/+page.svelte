@@ -18,9 +18,17 @@
       5
     </p>
     <p class="author">
-      Built by <a href="https://github.com/Jaydeep189" target="_blank" rel="noopener noreferrer">Jaydeep189</a>
+      Built by <a
+        href="https://github.com/Jaydeep189"
+        target="_blank"
+        rel="noopener noreferrer">Jaydeep189</a
+      >
       &middot;
-      <a href="https://github.com/Jaydeep189/svelte-before-after" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+      <a
+        href="https://github.com/Jaydeep189/svelte-before-after"
+        target="_blank"
+        rel="noopener noreferrer">View on GitHub</a
+      >
     </p>
   </header>
 
