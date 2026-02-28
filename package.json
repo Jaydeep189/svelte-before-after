@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/Jaydeep189/svelte-before-after.git"
   },
-  "homepage": "https://github.com/Jaydeep/svelte-before-after#readme",
+  "homepage": "https://svelte-before-after.pages.dev/",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run prepack",
