@@ -1,6 +1,6 @@
 {
   "name": "svelte-before-after",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A lightweight, accessible before/after image comparison slider for Svelte 5",
   "license": "MIT",
   "repository": {
