@@ -17,6 +17,11 @@
       A lightweight, accessible before/after image comparison slider for Svelte
       5
     </p>
+    <p class="author">
+      Built by <a href="https://github.com/Jaydeep189" target="_blank" rel="noopener noreferrer">Jaydeep189</a>
+      &middot;
+      <a href="https://github.com/Jaydeep189/svelte-before-after" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+    </p>
   </header>
 
   <!-- Section 1: Basic usage -->
@@ -155,6 +160,21 @@
   .hero p {
     font-size: 1.15rem;
     color: #555;
+  }
+
+  .hero .author {
+    font-size: 0.95rem;
+    margin-top: 0.25rem;
+  }
+
+  .hero .author a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .hero .author a:hover {
+    text-decoration: underline;
   }
 
   section {
